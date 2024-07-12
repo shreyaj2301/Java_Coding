@@ -1,3 +1,6 @@
+ // Question : Calculate Sum of the Elements of the Array
+ 
+ 
  import java.util.*;
  class SumArray {
     public static void main(String[]args){

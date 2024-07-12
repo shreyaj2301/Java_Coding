@@ -1,3 +1,6 @@
+// Question : "Find the smallest element in an array
+
+
 import java.util.*;
  class SmallNum{
     public static void main(String args[]){

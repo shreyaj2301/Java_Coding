@@ -1,3 +1,6 @@
+ // Question : Rearrange array in increasing-decreasing order
+ 
+ 
  import java.util.Arrays;
  class IncDecArray {
     public static void main(String[]args){

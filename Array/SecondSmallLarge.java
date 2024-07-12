@@ -1,3 +1,6 @@
+// Question : Find Second Smallest and Second Largest Element in an array
+
+
 import java.io.*;
 import java.util.Arrays;
 

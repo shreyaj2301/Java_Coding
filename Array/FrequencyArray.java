@@ -1,4 +1,7 @@
-import java.util.*;
+//Question : Count frequency of each element in the array
+
+
+ import java.util.*;
 
  class FrequencyArray {
     public static void main(String[]args){
